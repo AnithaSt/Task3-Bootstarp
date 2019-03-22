@@ -1,0 +1,73 @@
+.but{
+		margin-left: 120px;
+		margin-top:-50px;
+	}
+
+	.bc{background-color: #ffbe42;}
+.para{
+		font-size: 12px;
+	}
+.butt{
+		background-color: #244b5c;
+		color: white;
+		border: none;
+		width: 180px;
+		height: 40px;
+	}
+.second{
+		background-color: #244b5c;
+	}
+.icon{ background-color:#f97171;;
+		border-radius: 50px; 
+		padding: 35px;}
+.mrg{
+	margin-top:130px;
+}
+.mrga{
+	margin-bottom:130px;
+}
+.pp{
+	font-size:22px;
+	font-weight:lighter;
+	color: #757575;
+
+	 }
+.colo{background-color: #f3f3f3;}
+.bca{ background-color: #f7cd68;}
+.project{ width: 100%;
+			height: 225px; }
+.bgcolor{background-color: #ffccff;}
+.icona{ background-color:#f97171;;
+		border-radius: 50px; 
+		padding: 20px;}
+.glyphico {
+    margin-bottom: 5%;
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 2px;}
+    
+   .h:hover{color:#f7cd68 }
+    .bcv{background-color: #f3f3f3;}
+   .wid{width: 100%;}
+   .icone{ background-color:#ffffff;
+		border-radius: 50px; 
+		padding: 35px;
+		columns: yellow;}
+		.input{width: 100%;
+				background-color: #f4f4f4;
+   				 border: 1px solid #f4f4f4;			
+				padding: 7px;
+				margin-top: 20px;}
+	.inputa{width: 100%;
+				background-color: #f4f4f4;
+   				 border: 1px solid #f4f4f4;			
+				height: 200px;
+				margin-top: 20px;}
+
+.buttaa{
+		background-color: #244b5c;
+		color: white;
+		border: none;
+		width: 130px;
+		height: 40px;
+	}
